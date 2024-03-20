@@ -1,0 +1,14 @@
+.filter {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  max-width: 300px;
+  
+}
+
+.filterInput {
+  padding: 8px;
+  border: 1px solid #f5f2f2;
+  border-radius: 4px;
+  width: 300px;
+  outline: none;
+}

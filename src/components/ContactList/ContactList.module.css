@@ -1,0 +1,20 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  gap: 10px;
+}
+
+.deleteButton {
+  padding: 5px 10px;
+  background-color: #d60c2e;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.deleteButton:hover {
+  background-color: #f40f1a;
+}
